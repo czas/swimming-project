@@ -21,7 +21,7 @@ npm start
   <p>
     <a href="https://es.linkedin.com/in/carloszaszas" target="_blank">
         <img 
-            src="https://img.shields.io/badge/LinkedIn-Carlos_Zas-0077B5?style=for-the-badge&logo=linkedin" alt="Github Carlos Zas" />
+            src="https://img.shields.io/badge/LinkedIn-Carlos_Zas-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Carlos Zas" />
     </a>
   </p>
   <p>
