@@ -1,0 +1,157 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Swimming World Championship",
+      "subtitle": "Michael Phelps wins 8 gold medals",
+      "description": "In an unprecedented feat, Michael Phelps secures 8 gold medals in the Swimming World Championship.",
+      "content": "The Swimming World Championship witnessed history in the making as Michael Phelps, the legendary swimmer, clinched an astounding 8 gold medals, breaking all previous records.",
+      "slug": "swimming-world-championship",
+      "publication_date": "2022-07-30"
+    },
+    {
+      "id": "2",
+      "title": "Olympic Trials",
+      "subtitle": "US swim team announced",
+      "description": "The US swim team for the upcoming Olympics has been announced after the Olympic Trials.",
+      "content": "The US swim team for the Tokyo Olympics has been finalized after the Olympic Trials, with a combination of experienced swimmers and promising newcomers.",
+      "slug": "olympic-trials",
+      "publication_date": "2022-06-20"
+    },
+    {
+      "id": "3",
+      "title": "New World Record",
+      "subtitle": "Sarah Sjostrom sets a new record",
+      "description": "Sarah Sjostrom of Sweden sets a new world record in the women's 100m butterfly event.",
+      "content": "Sarah Sjostrom of Sweden has set a new world record in the women's 100m butterfly event, finishing with a time of 55.48 seconds.",
+      "slug": "new-world-record",
+      "publication_date": "2022-05-12"
+    },
+    {
+      "id": "4",
+      "title": "European Swimming Championships",
+      "subtitle": "Italy emerges as the champion",
+      "description": "Italy claims the top spot in the overall medal tally at the European Swimming Championships.",
+      "content": "The European Swimming Championships concluded with Italy securing the top spot in the overall medal tally, showcasing their exceptional swimming talent.",
+      "slug": "european-championships",
+      "publication_date": "2022-04-05"
+    },
+    {
+      "id": "5",
+      "title": "World Aquatics Championships",
+      "subtitle": "US dominates the competition",
+      "description": "The US swim team emerges as the overall champion at the World Aquatics Championships.",
+      "content": "The US swim team has once again showcased their dominance at the World Aquatics Championships, finishing at the top of the medal tally.",
+      "slug": "aquatics-championships",
+      "publication_date": "2022-03-18"
+    },
+    {
+      "id": "6",
+      "title": "Upcoming Swimming Events",
+      "subtitle": "Mark your calendars",
+      "description": "A list of upcoming swimming events to look forward to in the coming months.",
+      "content": "Swimming enthusiasts have several exciting events to look forward to in the coming months, including the FINA World Championships and the Commonwealth Games.",
+      "slug": "upcoming-events",
+      "publication_date": "2022-02-25"
+    },
+    {
+      "id": "7",
+      "title": "FINA World Championships",
+      "subtitle": "India's first gold medal in swimming",
+      "description": "India creates history with its first-ever gold medal in swimming at the FINA World Championships.",
+      "content": "India's swimming sensation, Sajan Prakash, has scripted history by winning the country's first-ever gold medal in swimming at the FINA World Championships.",
+      "slug": "fina-championships",
+      "publication_date": "2022-01-10"
+    },
+    {
+      "id": "8",
+      "title": "Commonwealth Games",
+      "subtitle": "Australia dominates the pool",
+      "description": "Australia puts up a stellar performance to emerge as the top swimming nation at the Commonwealth Games.",
+      "content": "The Commonwealth Games witnessed Australia's swimming prowess as they clinched the top spot in the medal tally, leaving other nations behind.",
+      "slug": "commonwealth-games",
+      "publication_date": "2021-12-02"
+    },
+    {
+      "id": "9",
+      "title": "US National Championships",
+      "subtitle": "Katie Ledecky sets new records",
+      "description": "Katie Ledecky breaks multiple records at the US National Championships.",
+      "content": "Katie Ledecky, the American swimming superstar, has shattered several records at the US National Championships, cementing her status as one of the greatest swimmers of all time.",
+      "slug": "us-nationals",
+      "publication_date": "2021-11-18"
+    },
+    {
+      "id": "10",
+      "title": "World Short Course Championships",
+      "subtitle": "Russia emerges as the champion",
+      "description": "Russia claims the top spot in the overall medal tally at the World Short Course Championships.",
+      "content": "The World Short Course Championships witnessed Russia's exceptional performance as they secured the top spot in the overall medal tally.",
+      "slug": "short-course-championships",
+      "publication_date": "2021-10-30"
+    },
+    {
+      "id": "11",
+      "title": "Paralympic Swimming",
+      "subtitle": "Record-breaking performances",
+      "description": "The Paralympic swimming events witness record-breaking performances by para-athletes from across the globe.",
+      "content": "The Paralympic swimming events have been a showcase of incredible talent and determination, with para-athletes from various countries setting new records in their respective categories.",
+      "slug": "paralympic-swimming",
+      "publication_date": "2021-09-14"
+    },
+    {
+      "id": "12",
+      "title": "Tokyo Olympics",
+      "subtitle": "Swimming highlights",
+      "description": "A recap of the thrilling moments from the swimming events at the Tokyo Olympics.",
+      "content": "The swimming events at the Tokyo Olympics were filled with nail-biting finishes, unexpected upsets, and record-breaking performances, making it a memorable competition.",
+      "slug": "tokyo-olympics",
+      "publication_date": "2021-08-05"
+    },
+    {
+      "id": "13",
+      "title": "World University Games",
+      "subtitle": "USA tops the swimming medal tally",
+      "description": "The USA finishes at the top of the swimming medal tally at the World University Games.",
+      "content": "The World University Games witnessed the USA's swimming dominance as they clinched the top spot in the medal tally, showcasing the talent of young American swimmers.",
+      "slug": "university-games",
+      "publication_date": "2021-07-22"
+    },
+    {
+      "id": "14",
+      "title": "African Swimming Championships",
+      "subtitle": "South Africa emerges as the champion",
+      "description": "South Africa claims the top spot in the overall medal tally at the African Swimming Championships.",
+      "content": "The African Swimming Championships concluded with South Africa securing the top spot in the overall medal tally, highlighting their swimming prowess.",
+      "slug": "african-championships",
+      "publication_date": "2021-06-08"
+    },
+    {
+      "id": "15",
+      "title": "Asian Swimming Championships",
+      "subtitle": "China dominates the competition",
+      "description": "China emerges as the overall champion at the Asian Swimming Championships.",
+      "content": "The Asian Swimming Championships witnessed China's swimming supremacy as they finished at the top of the medal tally.",
+      "slug": "asian-championships",
+      "publication_date": "2021-05-20"
+    },
+    {
+      "id": "16",
+      "title": "European Aquatics Championships",
+      "subtitle": "Great Britain shines in the pool",
+      "description": "Great Britain puts up an impressive performance to emerge as the top swimming nation at the European Aquatics Championships.",
+      "content": "The European Aquatics Championships witnessed Great Britain's swimming excellence as they clinched the top spot in the medal tally, leaving other nations behind.",
+      "slug": "european-aquatics",
+      "publication_date": "2021-04-12"
+    },
+    {
+      "id": "17",
+      "title": "World Junior Swimming Championships",
+      "subtitle": "Australia dominates the competition",
+      "description": "Australia finishes at the top of the medal tally at the World Junior Swimming Championships.",
+      "content": "The World Junior Swimming Championships witnessed Australia's swimming talent as they secured the top spot in the medal tally, showcasing the potential of their young swimmers.",
+      "slug": "junior-championships",
+      "publication_date": "2021-03-28"
+    }
+  ]
+}
