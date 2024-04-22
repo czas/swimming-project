@@ -14,6 +14,8 @@ cd swimming-project/swimming-web
 npm install
 # start Angular server
 npm start
+# start a fake API server
+npm run api:seed
 ```
 ---
 
