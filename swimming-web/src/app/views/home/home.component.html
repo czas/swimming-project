@@ -1,0 +1,10 @@
+<div class="results">
+  <ng-container *ngIf="news$ | async as news">
+    <article *ngFor="let item of news">
+      <h2>{{ item.title }}</h2>
+      <div>
+        <p>{{ item.subtitle }}</p>
+      </div>
+    </article>
+  </ng-container>
+</div>
